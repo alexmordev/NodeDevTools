@@ -1,0 +1,25 @@
+{
+  "name": "nodedevtools",
+  "version": "1.0.0",
+  "description": "1.  Express  2.  Sequelize => Postgres conexion 3.  JWT express 4.  Nest 5.  JWT nest => Postgres conexion 6.  TypeOrm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmordev/NodeDevTools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmordev/NodeDevTools/issues"
+  },
+  "homepage": "https://github.com/alexmordev/NodeDevTools#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
